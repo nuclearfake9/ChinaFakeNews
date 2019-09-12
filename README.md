@@ -4,7 +4,7 @@
 
 [香港逃犯条例.按月份排列.进行中](https://github.com/nuclearfake9/ChinaFakeNews/tree/master/2019/%E9%A6%99%E6%B8%AF%E9%80%83%E7%8A%AF%E6%9D%A1%E4%BE%8B)
 
-[香港逃犯条例.9月.慰安少女](https://github.com/nuclearfake9/ChinaFakeNews/tree/master/2019/%E9%A6%99%E6%B8%AF%E9%80%83%E7%8A%AF%E6%9D%A1%E4%BE%8B/09/10_%E6%85%B0%E5)
+[香港逃犯条例.9月.慰安少女](https://github.com/nuclearfake9/ChinaFakeNews/tree/master/2019/%E9%A6%99%E6%B8%AF%E9%80%83%E7%8A%AF%E6%9D%A1%E4%BE%8B/09/10_%E6%85%B0%E5%AE%89%E5%B0%91%E5%A5%B3)
 
 [香港逃犯条例.8月11日.爆眼少女](https://github.com/nuclearfake9/ChinaFakeNews/tree/master/2019/%E9%A6%99%E6%B8%AF%E9%80%83%E7%8A%AF%E6%9D%A1%E4%BE%8B/08/11_%E7%88%86%E7%9C%BC%E5%B0%91%E5%A5%B3%E4%BA%8B%E4%BB%B6)
 
