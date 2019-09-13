@@ -1,5 +1,5 @@
 
-酷炫的时序!
+## hkrev.info 时序
 
 https://tl.hkrev.info/zh-hans/时序/
 
