@@ -13,7 +13,11 @@
 
 [2019-07-21.元朗事件](https://github.com/nuclearfake9/ChinaFakeNews/tree/master/2019/%E9%A6%99%E6%B8%AF%E9%80%83%E7%8A%AF%E6%9D%A1%E4%BE%8B/07/21_%E5%85%83%E6%9C%97%E4%BA%8B%E4%BB%B6)
 
-[时间线.hkrev.info](https://tl.hkrev.info/zh-hans/)
+[时序.programthink](https://github.com/nuclearfake9/ChinaFakeNews/blob/master/2019/%E9%A6%99%E6%B8%AF%E9%80%83%E7%8A%AF%E6%9D%A1%E4%BE%8B/0_%E6%97%B6%E5%BA%8F_%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3_programthink.md)
+
+[时序.hkrev.info](https://tl.hkrev.info/zh-hans/)
+
+
 
 ### twitter
 
@@ -28,17 +32,7 @@
 
 - 人工假新闻验证
 - 人工汇总
-
-
-# 希望之后有
-
-- 提高可读性
-- 美化
-- 可搜索
-- 翻译
-- 可视化
-- 程序化
-- (待填空)
+- 信息战相关信息收集
 
 - 目前只用这个 gmail 帐号, 其他 gmail 账号, 差一个数字或字母都不会是我
 - nuclearfake9@gmail.com
