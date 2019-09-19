@@ -18,6 +18,7 @@
 - https://www.youtube.com/watch?v=_oSRyY6-0qQ
 
 
+
 ## 環球时報
 
 - http://china.huanqiu.com/gangao/2019-07/15198533.html?agt=16372
@@ -26,5 +27,22 @@
 ## CCTV 13
 
 - https://www.youtube.com/watch?v=HMNk8V1PZas
+
+
+## 薛浩然
+
+- https://www.youtube.com/watch?v=OR3RauW8xNg
+
+- https://www.youtube.com/watch?v=EzcZV5gJCK0
+
+- https://www.youtube.com/watch?v=O4GzEL35nDg
+
+- https://www.youtube.com/watch?v=XQMrqjrw8jc
+
+## 朱凱迪
+
+- https://www.youtube.com/watch?v=2Zkf8R8PGIM
+
+
 
 
