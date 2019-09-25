@@ -19,6 +19,8 @@ Yuri Bezmenov Full Interview & Lecture - HQ
 
 - https://www.youtube.com/watch?v=pzeHpf3OYQY
 
+## Soviet Active Measures (1984)
+- https://www.youtube.com/watch?v=ALfDhs-_ce4
 
 
 ## Oleg Kalugin
